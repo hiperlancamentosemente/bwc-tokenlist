@@ -1,0 +1,17 @@
+{
+  "name": "Theter USD Token List",
+  "logoURI": "https://static.cx.metamask.io/api/v1/tokenIcons/56/0x55d398326f99059ff775485246999027b3197955.png",
+  "keywords": ["theter", "usdt", "stablecoin"],
+  "timestamp": "2025-09-15T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xb13d19a59FCb6A6362139016Ce555c58d244B01d",
+      "name": "Theter USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://static.cx.metamask.io/api/v1/tokenIcons/56/0x55d398326f99059ff775485246999027b3197955.png"
+    }
+  ]
+}
